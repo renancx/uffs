@@ -1,0 +1,61 @@
+instancia,autoria,algoritmo,q-medio,q-desvio,t-medio
+
+Western Sahara,JRG,BLTS2opt,93463,0.0,0
+Djibouti,JRG,BLTS2opt,27395,0.0,0
+Qatar,JRG,BLTS2opt,94352,0.0,0
+Uruguay,JRG,BLTS2opt,1674984,0.0,3
+Zimbabwe,JRG,BLTS2opt,2352928,0.0,4
+
+Western Sahara,JRG,BLTS2opt,64570,45679.0,0
+Djibouti,JRG,BLTS2opt,16874,10770.19,0
+Qatar,JRG,BLTS2opt,59532,42754.56,1
+Uruguay,JRG,BLTS2opt,1456828,283186.63,15
+Zimbabwe,JRG,BLTS2opt,2164974,339187.87,19
+
+Western Sahara,JRG,BLTS2opt,77704,34474.32,0
+Djibouti,JRG,BLTS2opt,23705,9048.48,0
+Qatar,JRG,BLTS2opt,68775,40815.34,1
+Uruguay,JRG,BLTS2opt,1630248,0.0,2
+Zimbabwe,JRG,BLTS2opt,2335481,0.0,3
+
+Western Sahara,JRG,BLTS2opt,103451,190.69,0
+Djibouti,JRG,BLTS2opt,28765,0.0,0
+Qatar,JRG,BLTS2opt,95462,0.0,0
+Uruguay,JRG,BLTS2opt,1605238,0.0,2
+Zimbabwe,JRG,BLTS2opt,2379073,0.0,3
+
+Western Sahara,JRG,BLTS2opt,101042,5395.14,0
+Djibouti,JRG,BLTS2opt,28818,0.0,0
+Qatar,JRG,BLTS2opt,97186,0.0,0
+Uruguay,JRG,BLTS2opt,1658508,0.0,2
+Zimbabwe,JRG,BLTS2opt,2397058,0.0,3
+
+Western Sahara,JRL,BLTS2opt,95647,0.0,0
+Djibouti,JRL,BLTS2opt,30029,0.0,0
+Qatar,JRL,BLTS2opt,95997,0.0,0
+Uruguay,JRL,BLTS2opt,1600409,0.0,2
+Zimbabwe,JRL,BLTS2opt,2343191,0.0,3
+
+Western Sahara,JRL,BLTS2opt,96037,0.0,0
+Djibouti,JRL,BLTS2opt,28122,146.66,0
+Qatar,JRL,BLTS2opt,94357,0.0,0
+Uruguay,JRL,BLTS2opt,1577206,0.0,2
+Zimbabwe,JRL,BLTS2opt,2341390,0.0,3
+
+Western Sahara,JRL,BLTS2opt,111698,12.08,0
+Djibouti,JRL,BLTS2opt,28109,0.0,0
+Qatar,JRL,BLTS2opt,91754,0.0,0
+Uruguay,JRL,BLTS2opt,1629126,0.0,2
+Zimbabwe,JRL,BLTS2opt,2348366,0.0,3
+
+Western Sahara,JRL,BLTS2opt,98432,24605.73,0
+Djibouti,JRL,BLTS2opt,27693,7309.46,0
+Qatar,JRL,BLTS2opt,94231,0.0,0
+Uruguay,JRL,BLTS2opt,1661252,0.0,2
+Zimbabwe,JRL,BLTS2opt,2455848,0.0,3
+
+Western Sahara,JRL,BLTS2opt,112733,0.0,0
+Djibouti,JRL,BLTS2opt,25611,0.0,0
+Qatar,JRL,BLTS2opt,86422,0.0,0
+Uruguay,JRL,BLTS2opt,1630113,0.0,2
+Zimbabwe,JRL,BLTS2opt,2376758,0.0,4

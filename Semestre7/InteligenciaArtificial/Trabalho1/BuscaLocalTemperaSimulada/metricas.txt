@@ -1,0 +1,4 @@
+Link com diferentes métricas
+Gráficos e comparativos dos resultados obtidos:
+
+https://app.powerbi.com/view?r=eyJrIjoiNmExMzlkZjQtYmQwMi00M2IwLWJhZjQtYzZjMmY5ZmVmOWM2IiwidCI6IjhjYzM1MGVmLTdlZDQtNDI1Mi1iYzFkLWRjZDlmMzgwOWNmOSJ9
